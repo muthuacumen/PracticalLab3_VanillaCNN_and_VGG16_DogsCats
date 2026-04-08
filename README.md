@@ -21,7 +21,7 @@ We implement binary image classification (dogs vs cats) using two approaches and
 
 The comparison covers accuracy, precision/recall/F1, PR curves, confusion matrices, and error analysis -- showing why transfer learning consistently outperforms training from scratch on small datasets.
 
-**Course:** CSCN8010 -- Deep Learning
+**Course:** CSCN8010 - Foundations of Machine Learning Frameworks  
 
 ---
 
